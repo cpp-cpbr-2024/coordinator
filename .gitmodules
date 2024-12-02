@@ -1,0 +1,3 @@
+[submodule "modules/comm"]
+	path = modules/comm
+	url = git@github.com:cpp-cpbr-2024/comm.git
